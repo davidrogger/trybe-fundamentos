@@ -4,19 +4,28 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
 
 <table>
   <tr>
-    <td width="30%" align="center">
+    <td valign="top" width="30%" align="center">
       <h2>
-        <a href="#" target="_blank">Lessons Learn<\a>
+        <a href="#" target="_blank">Lessons Learn
       </h2>
       <hr>
       <img src="./img/lessons_learned_320x249.png">
       <hr>
       <i>
-      Primeiro Projeto do curso, onde desenvolvi minha primeira página HTML usando CSS.
+        Primeiro Projeto do curso, onde desenvolvi minha primeira página HTML usando CSS.
       </i>
     </td>
-  </tr>
-  <tr>
+    <td width="30%" align="center">
+      <h2>
+        <a href="#" target="_blank">Playground Functions
+      </h2>
+      <hr>
+      <img src="./img/playground_functions_320x249.png">
+      <hr>
+      <i>
+        Segundo projeto da trybe, onde iniciei com Javascript, apesar de que estudei no youtube, não seria meu primeiro conteto direto, mas foi basicamente minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
+      </i>
+    </td>
   </tr>
 </table>
 
