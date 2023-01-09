@@ -12,7 +12,7 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
       <img src="./img/lessons_learned_320x249.png">
       <hr>
       <i>
-        Primeiro Projeto do curso, onde desenvolvi minha primeira página HTML usando CSS. Onde eram testados posicionamentos de elementos para passar os requisitos do projeto, apesar de muitos anos terem passado desde que mexi com HTML, foi minha primeira vez vendo de perto o cypress, testando meu código.
+        Projeto da seção 2 do modulo 4, onde desenvolvi minha primeira página HTML usando CSS. Onde eram testados posicionamentos de elementos para passar os requisitos do projeto, apesar de muitos anos terem passado desde que mexi com HTML, foi minha primeira vez vendo de perto o cypress, testando meu código.
       </i>
     </td>
     <td width="45%" align="center">
@@ -23,7 +23,7 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
       <img src="./img/playground_functions_320x249.png">
       <hr>
       <i>
-        Segundo projeto da trybe, onde iniciei com Javascript, apesar de que estudei no youtube, não seria meu primeiro conteto direto, mas foi basicamente minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
+        Projeto da seção 3 do modulo 4, onde iniciei com Javascript, apesar de que estudei no youtube, não seria meu primeiro conteto direto, mas foi basicamente minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
       </i>
     </td>
   </tr>
@@ -37,18 +37,18 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
       <img src="./img/pixel_art_320x249.png">
       <hr>
       <i>
-        Terceiro projeto, onde pela primeira vez, criei uma página dinâmica, manipulando o DOM, onde era possível preenchendo com cores quadrados, foi muito mas muito graficante, realizar esse projeto, mesmo que simples, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador, foi incrivel!
+        Projeto da seção 4 do modulo 4, onde pela primeira vez, criei uma página dinâmica, manipulando o DOM, onde era possível preenchendo com cores quadrados, foi muito mas muito graficante, realizar esse projeto, mesmo que simples, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador, foi incrivel!
       </i>
     </td>
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Lista de Tarefas
+        Todo List
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/todo_list_320x249.png">
       <hr>
       <i>
-        -
+        Projeto da seção 4 do modulo 4, projeto bonus para praticar, onde é possível, criar uma lista de tarefas a fazer, apagar, marcar como realizada, modificar ordem de apresentação na lista, sendo possível salvar no local a lista, para não perder a lista ao atualizar a página.
       </i>
     </td>
   </tr>
@@ -67,7 +67,7 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
     </td>
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Color Guess
+        Color Guess
       </h2>
       <hr>
       <img src="./img/placeholder_320x249.png">
