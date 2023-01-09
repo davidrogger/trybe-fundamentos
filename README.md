@@ -1,12 +1,12 @@
 # Trybe Fundamentos
 
-Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www.betrybe.com/).
+Resumidamento os projetos realizados durante o modulo de Fundamento na escola [trybe](https://www.betrybe.com/), onde foi criada minha base para iniciar na carreira.
 
 <table>
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Lessons Learn
+        Lessons Learn
       </h2>
       <hr>
       <img src="./img/lessons_learned_320x249.png">
@@ -17,7 +17,7 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
     </td>
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Playground Functions
+        Playground Functions
       </h2>
       <hr>
       <img src="./img/playground_functions_320x249.png">
@@ -31,7 +31,7 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Arte Pixels
+        Pixels Art
       </h2>
       <hr>
       <img src="./img/pixel_art_320x249.png">
@@ -56,7 +56,7 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Meme Generator
+        Meme Generator
       </h2>
       <hr>
       <img src="./img/placeholder_320x249.png">
@@ -81,7 +81,7 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Mistery Letter
+        Mistery Letter
       </h2>
       <hr>
       <img src="./img/placeholder_320x249.png">
@@ -92,32 +92,7 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
     </td>
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Trybewarts
-      </h2>
-      <hr>
-      <img src="./img/placeholder_320x249.png">
-      <hr>
-      <i>
-        -
-      </i>
-    </td>
-  </tr>
-
-  <tr valign="top">
-    <td width="45%" align="center">
-      <h2>
-        <a href="#" target="_blank">Unit Test
-      </h2>
-      <hr>
-      <img src="./img/placeholder_320x249.png">
-      <hr>
-      <i>
-        -
-      </i>
-    </td>
-    <td width="45%" align="center">
-      <h2>
-        <a href="#" target="_blank">Zoo Functions
+        Trybewarts
       </h2>
       <hr>
       <img src="./img/placeholder_320x249.png">
@@ -131,7 +106,32 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        <a href="#" target="_blank">Car Shop
+        Unit Test
+      </h2>
+      <hr>
+      <img src="./img/placeholder_320x249.png">
+      <hr>
+      <i>
+        -
+      </i>
+    </td>
+    <td width="45%" align="center">
+      <h2>
+        Zoo Functions
+      </h2>
+      <hr>
+      <img src="./img/placeholder_320x249.png">
+      <hr>
+      <i>
+        -
+      </i>
+    </td>
+  </tr>
+
+  <tr valign="top">
+    <td width="45%" align="center">
+      <h2>
+        Car Shop
       </h2>
       <hr>
       <img src="./img/placeholder_320x249.png">
