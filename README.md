@@ -34,10 +34,10 @@ Projetos realizados durante o modulo de Fundamento na escola [trybe](https://www
         <a href="#" target="_blank">Arte Pixels
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/pixel_art_320x249.png">
       <hr>
       <i>
-        -
+        Terceiro projeto, onde pela primeira vez, criei uma página dinâmica, manipulando o DOM, onde era possível preenchendo com cores quadrados, foi muito mas muito graficante, realizar esse projeto, mesmo que simples, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador, foi incrivel!
       </i>
     </td>
     <td width="45%" align="center">
