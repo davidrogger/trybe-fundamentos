@@ -59,10 +59,10 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
         Meme Generator
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/meme_generetor_320x249.png">
       <hr>
       <i>
-        -
+        Projeto da seção 4 do modulo 4, projeto bonus para praticar, nesse projeto, era possivel adicionar uma imagem ou usar uma imagem padrão, e adicionar alguma frase para gerar um meme.
       </i>
     </td>
     <td width="45%" align="center">
