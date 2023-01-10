@@ -109,7 +109,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Trybewarts
       </h2>
       <hr>
-      <img src="./img/trybewarts_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/04_trybewarts">
+        <img src="./img/trybewarts_320x249.png">
+      </a>
       <hr>
       <i>
         Foi meu primeiro projeto dividindo diretamente tarefas com alguém, minha dupla foi a [@alline](https://www.linkedin.com/in/alline-franciely-silva/), onde trocamos ideias e soluções desenvolvemos juntos as soluções de cada requisito!
