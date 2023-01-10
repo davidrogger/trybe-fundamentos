@@ -80,7 +80,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Color Guess
       </h2>
       <hr>
-      <img src="./img/color_guess_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.4_color_guess">
+        <img src="./img/color_guess_320x249.png">
+      </a>
       <hr>
       <i>
         Jogo para adivinhar cores, ele apresenta o código decimal do RGB para adivinhar a cor abaixo.

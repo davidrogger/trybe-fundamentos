@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 10px 0;
+  opacity: 1;
+}
+
+h1 {
+  position: relative;
+}
+
+#balls-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.ball {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 100%;
+  margin: 0 20px;
+}
+
+#reset-game {
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.selected {
+  box-sizing: border-box;
+  border: 3px solid blue;
+}
