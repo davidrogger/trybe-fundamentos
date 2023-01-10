@@ -38,7 +38,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Pixels Art
       </h2>
       <hr>
-      <img src="./img/pixel_art_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.1_pixels_art">
+        <img src="./img/pixel_art_320x249.png">
+      </a>
       <hr>
       <i>
         Pela primeira vez, criei uma página dinâmica, manipulando o DOM, onde era possível preenchendo com cores quadrados, foi muito mas muito graficante, realizar esse projeto, mesmo que simples, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador, foi incrivel!
