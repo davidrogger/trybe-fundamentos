@@ -22,7 +22,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Playground Functions
       </h2>
       <hr>
-      <img src="./img/playground_functions_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/02_playground_functions">
+        <img src="./img/playground_functions_320x249.png">
+      </a>
       <hr>
       <i>
         Onde iniciei com Javascript, apesar de que estudei no youtube na época, não seria meu primeiro conteto direto, mas foi basicamente minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
