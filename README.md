@@ -125,7 +125,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Unit Test
       </h2>
       <hr>
-      <img src="./img/unit_test_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/04_trybewarts">
+        <img src="./img/unit_test_320x249.png">
+      </a>
       <hr>
       <i>
         Primeiro contato criando testes automatizados, usando jest, foi bem confuso no começo, mesmo ao final da seção muita coisa que aprendi ao longo do curso só foi fazer sentido mais tarde! Nesse projeto foi mesclado tanto desenvolver alguma função, como criar um teste para um ja existente, e também criar ambos.
