@@ -70,10 +70,10 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
         Color Guess
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/color_guess_320x249.png">
       <hr>
       <i>
-        -
+        Projeto da seção 4 do modulo 4, projeto bonus para praticar, jogo para adivinhar cores, ele apresenta o código decimal do RGB para adivinhar a cor abaixo.
       </i>
     </td>
   </tr>
