@@ -6,9 +6,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
   <tr valign="top">
     <td width="45%" align="center">
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
-        <h2>
+        <strong>
           Lessons Learn
-        </h2>
+        </strong>
         <img src="./img/lessons_learned_320x249.png">
       </a>
     </td>
