@@ -5,18 +5,18 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 <table>
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Lessons Learn
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
-        <strong>
-          Lessons Learn
-        </strong>
         <img src="./img/lessons_learned_320x249.png">
       </a>
     </td>
     <td width="45%" align="center">
+      <h2>
+        Playground Functions
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/02_playground_functions">
-        <h2>
-          Playground Functions
-        </h2>
         <img src="./img/playground_functions_320x249.png">
       </a>
     </td>
@@ -24,18 +24,18 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Pixels Art
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.1_pixels_art">
-        <h2>
-          Pixels Art
-        </h2>
         <img src="./img/pixel_art_320x249.png">
       </a>
     </td>
     <td width="45%" align="center">
+      <h2>
+        Todo List
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.2_todo_list">
-        <h2>
-          Todo List
-        </h2>
         <img src="./img/todo_list_320x249.png">
       </a>
     </td>
@@ -43,18 +43,18 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Meme Generator
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.3_meme_generetor">
-        <h2>
-          Meme Generator
-        </h2>
         <img src="./img/meme_generetor_320x249.png">
       </a>
     </td>
     <td width="45%" align="center">
+      <h2>
+        Color Guess
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.4_color_guess">
-        <h2>
-          Color Guess
-        </h2>
         <img src="./img/color_guess_320x249.png">
       </a>
     </td>
@@ -62,10 +62,10 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Mistery Letter
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.5_mistery_letter">
-        <h2>
-          Mistery Letter
-        </h2>
         <img src="./img/mistery_letter_320x249.png">
       </a>
     </td>
@@ -81,18 +81,18 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Unit Test
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/05_unit_test">
-        <h2>
-          Unit Test
-        </h2>
         <img src="./img/unit_test_320x249.png">
       </a>
     </td>
     <td width="45%" align="center">
+      <h2>
+        Zoo Functions
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/06_zoo_functions">
-        <h2>
-          Zoo Functions
-        </h2>
           <img src="./img/zoo_functions_320x249.png">
       </a>
     </td>
@@ -100,10 +100,10 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
 
   <tr valign="top">
     <td width="45%" align="center">
+      <h2>
+        Shopping Cart
+      </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/07_shopping_cart">
-        <h2>
-          Shopping Cart
-        </h2>
         <img src="./img/shopping_cart_320x249.png">
       </a>
     </td>
