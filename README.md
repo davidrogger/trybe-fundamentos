@@ -131,13 +131,13 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        Car Shop
+        Shopping Cart
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/shopping_cart_320x249.png">
       <hr>
       <i>
-        -
+        Projeto final do módulo de fundamentos, foi o projeto mais completo e divertido do módulo, onde usei uma API do mercadolivre, para "alimentar" minha página, praticando assincronicidade, com imagens, títulos, preços de computadores, onde é possível adicionar itens ao carrinho de compras, e removê-los, gerando um calculo de total, usando somente o javascript puro manipulando o DOM, e desenvolvi alguns testes simples usando jest também!
       </i>
     </td>
   </tr>
