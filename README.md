@@ -9,7 +9,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Lessons Learn
       </h2>
       <hr>
-      <img src="./img/lessons_learned_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
+        <img src="./img/lessons_learned_320x249.png">
+      </a>
       <hr>
       <i>
         Desenvolvi minha primeira página HTML usando CSS. Onde eram testados posicionamentos de elementos para passar os requisitos do projeto, apesar de muitos anos terem passado desde que mexi com HTML, foi minha primeira vez vendo de perto o cypress, testando meu código.
@@ -120,7 +122,7 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Zoo Functions
       </h2>
       <hr>
-        <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
+        <a href="">
           <img src="./img/zoo_functions_320x249.png">
         </a>
       <hr>
