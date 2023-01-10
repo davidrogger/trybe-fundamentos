@@ -95,10 +95,10 @@ Resumidamento os projetos realizados durante o modulo de Fundamento na escola [t
         Trybewarts
       </h2>
       <hr>
-      <img src="./img/placeholder_320x249.png">
+      <img src="./img/trybewarts_320x249.png">
       <hr>
       <i>
-        -
+        Projeto da seção 5 do modulo 4, foi meu primeiro projeto dividindo diretamente tarefas com alguém, minha dupla foi a [@alline](https://www.linkedin.com/in/alline-franciely-silva/), onde trocamos ideias e soluções desenvolvemos juntos as soluções de cada requisito!
       </i>
     </td>
   </tr>
