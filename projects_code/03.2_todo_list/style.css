@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: cadetblue;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  color: white;
+  background-color: rgb(42 , 67 , 68);
+}
+
+h1 {
+  margin: 0;
+}
+
+button {
+  position: relative;
+}
+
+#user-interact {
+  display: inline-block;
+  background-color: rgb(42 , 67 , 68);
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 10px;
+  position: sticky;
+  top: 5px;
+  opacity: 90%;
+  width: 225px;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+#task-buttons {
+  display: flex;
+  margin: 5px 5px 0;
+}
+
+#task-buttons button {
+  margin: 1px;
+}
+
+#task-bg {
+  display: flex;
+  min-height: 270px;
+  background-color: white;
+  width: 500px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+
+#lista-tarefas {
+  display: inline-block;
+  text-align: justify;
+  background-color: papayawhip;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: 85%;
+  margin: 20px auto;
+  padding: 20px 50px;
+}
+
+#lista-tarefas li:hover {
+  background-color: gray;
+}
+
+input {
+  border-radius: 8px;
+  width: 165px;
+  border: 1px dashed;
+}
+
+#user-interact button {
+  margin: auto;
+  border-radius: 5px;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(42 , 67 , 68);
+  color: white;
+  margin: 50px auto 0;
+  width: 350px;
+  font-size: 15px;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+
+#linkedin img {
+  display: flex;
+  width: 10px;
+  height: 10px;
+  margin: 3px;
+}
+
+/* tooltip https://www.w3schools.com/css/css_tooltip.asp */
+.tooltiptext {
+  visibility: hidden;
+  position: absolute;
+  background-color: black;
+  color: white;
+  width: 80px;
+  top: 100%;
+  transform: translate(-50% , 20%);
+  border-radius: 5px;
+  z-index: 1;
+  padding: 5px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltiptext:after {
+  content: ' ';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent;
+  border-bottom-color: black;
+}
