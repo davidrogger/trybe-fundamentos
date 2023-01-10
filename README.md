@@ -96,7 +96,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Mistery Letter
       </h2>
       <hr>
-      <img src="./img/mistery_letter_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.5_mistery_letter">
+        <img src="./img/mistery_letter_320x249.png">
+      </a>
       <hr>
       <i>
         Projeto onde é contada a quantidade de palavras escritas no input, alterando de forma aleatória sua configuração de fonte de fundo e formatação de letra.
