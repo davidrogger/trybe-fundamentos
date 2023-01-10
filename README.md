@@ -1,6 +1,7 @@
 # Trybe Fundamentos
 
 Resumidamento os projetos realizados durante o módulo de Fundamento na escola [trybe](https://www.betrybe.com/), onde foi criada minha base para iniciar na carreira.
+Ao clicar na imagem de cada projeto é possivel ver os arquivos criados e um pequeno resumo do projeto.
 
 <table>
   <tr valign="top">
