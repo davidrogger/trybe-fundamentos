@@ -51,7 +51,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Todo List
       </h2>
       <hr>
-      <img src="./img/todo_list_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.2_todo_list">
+        <img src="./img/todo_list_320x249.png">
+      </a>
       <hr>
       <i>
         Projeto para criar uma lista de tarefas a fazer onde é possível apagar, marcar como realizada, modificar ordem de apresentação na lista, sendo possível salvar no local a lista, para não perder a lista ao atualizar a página.
@@ -65,7 +67,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Meme Generator
       </h2>
       <hr>
-      <img src="./img/meme_generetor_320x249.png">
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/03.3_meme_generetor">
+        <img src="./img/meme_generetor_320x249.png">
+      </a>
       <hr>
       <i>
         Nesse projeto, é possivel adicionar uma imagem ou usar uma imagem padrão, e adicionar alguma frase para gerar um meme.

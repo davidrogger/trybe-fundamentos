@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">  
+  <title>Project Meme Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Meme Generator</h1></header>
+  <main>
+    <section id="user-setup">
+      <input type="text" id="text-input" placeholder="Digite a frase aqui" maxlength="60">
+      <input type="file" name="meme-insert" id="meme-insert">
+    </section>
+    <section id="meme-image-container" class="defaultBorder">
+      <img id="meme-image" src=" " alt="">      
+      <section id="meme-text"></section>
+    </section>
+    <section id="border-options">
+      <button id="fire" class="fireBorder"></button>
+      <button id="water" class="waterBorder"></button>
+      <button id="earth" class="earthBorder"></button>
+    </section>
+    <section id="meme-gallery">      
+      <div class="meme-portrait"> <img id="meme-1" src="./imgs/meme1.png"> </div>
+      <div class="meme-portrait"> <img id="meme-2" src="./imgs/meme2.png"> </div>
+      <div class="meme-portrait"> <img id="meme-3" src="./imgs/meme3.png"> </div>
+      <div class="meme-portrait"> <img id="meme-4" src="./imgs/meme4.png"> </div>
+    </section>
+  </main>
+  <footer>
+    Conteúdo compilado por:
+    <a id="linkedin" href="https://www.linkedin.com/in/davidrogger/"><img src="./imgs/linkedin-logo02.png" alt=""></a> Davíd Roggér, 12/2021
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
