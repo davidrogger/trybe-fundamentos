@@ -120,7 +120,9 @@ Resumidamento os projetos realizados durante o módulo de Fundamento na escola [
         Zoo Functions
       </h2>
       <hr>
-      <img src="./img/zoo_functions_320x249.png">
+        <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
+          <img src="./img/zoo_functions_320x249.png">
+        </a>
       <hr>
       <i>
         Foi criada funções necessárias para funcionamento de um sistema de um zoologico, na época não tinha noção, mas é como se coletassemos um json de uma API, onde tinhamos informações de um zoológico, como animais, localizações e funcionários, precisavamos buscar espécies de animais por id, identificar a idade de espécies, buscar funcionário pelo nome, contagem de animais, preço da entrada, mapa geográfico dos animais entre muitas outras funcionalidades, foi considerado na época o projeto mais difícil do módulo.
