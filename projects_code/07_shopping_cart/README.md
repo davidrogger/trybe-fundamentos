@@ -1,6 +1,6 @@
 # Shopping Cart
 
-Projeto final do módulo de fundamentos, foi o projeto mais completo e divertido do módulo, onde usei uma API do mercadolivre, para "alimentar" minha página, praticando assincronicidade, com imagens, títulos, preços de computadores, onde é possível adicionar itens ao carrinho de compras, e removê-los, gerando um calculo de total, usando somente o javascript puro manipulando o DOM, e desenvolvi alguns testes simples usando jest também!
+Projeto final do módulo de fundamentos, foi o projeto mais completo e divertido do módulo, onde usei uma API do mercado livre, para "alimentar" minha página, praticando assincronicidade, com imagens, títulos, preços de computadores, onde é possível adicionar itens ao carrinho de compras, e removê-los, gerando um cálculo de total, usando somente o javascript puro manipulando o DOM criando eventos, e mais testes simples usando jest para familiarização!
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
