@@ -1,6 +1,7 @@
 # Todo List
 
-Projeto para criar uma lista de tarefas a fazer onde é possível apagar, marcar como realizada, modificar ordem de apresentação na lista, sendo possível salvar no local a lista, para não perder a lista ao atualizar a página.
+Projeto extra para criar uma lista de tarefas a fazer onde é possível apagar, marcar como realizada, modificar ordem de apresentação na lista, sendo possível salvar no local a lista, para não perder a lista ao atualizar a página.
+Assim como os demais projetos extra dessa seção, fiz questão de fazer para entender melhor o funcionamento de eventos e manipulação dos elementos usando o javascript na página.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
