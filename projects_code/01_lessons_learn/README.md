@@ -1,6 +1,8 @@
-# Lessons Learn
+# Lessons Learned
 
-Desenvolvi minha primeira página HTML usando CSS. Onde eram testados posicionamentos de elementos para passar os requisitos do projeto, apesar de muitos anos terem passado desde que mexi com HTML, foi minha primeira vez vendo de perto o cypress, testando meu código.
+Tantos anos desde a última vez que usei HTML e CSS, por volta de 2012, fiz um curso técnico voltado para manutenção de computadores, onde foi apresentado o básico do uso do HTML e CSS.
+Neste projeto eram testados posicionamentos de elementos para passar os requisitos do projeto, foi minha primeira vez vendo de perto o cypress, testando meu código.
+Meu foco nesse projeto foi trabalhar usando as tags semânticas, apresentadas como uma boa prática, facilitando até mesmo no desenvolvimento para um ambiente mais inclusivo, na parte de deficiência visual, pois abriria o leque para bots de leitura.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*

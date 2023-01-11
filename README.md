@@ -7,7 +7,7 @@ Ao clicar na imagem de cada projeto é possivel ver os arquivos criados e um peq
   <tr valign="top">
     <td width="45%" align="center">
       <h2>
-        Lessons Learn
+        Lessons Learned
       </h2>
       <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/01_lessons_learn">
         <img src="./img/lessons_learned_320x249.png">
