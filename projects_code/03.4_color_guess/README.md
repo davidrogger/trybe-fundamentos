@@ -1,6 +1,6 @@
 # Color Guess
 
-Jogo para adivinhar cores, ele apresenta o código decimal do RGB para adivinhar a cor abaixo.
+Outro projeto extra, jogo bem divertido haha, onde é dado um código seguindo padrão RGB de cores, exemplo: `(255, 255, 255) = branco`, seguindo de uma paleta de cores, onde você deve clicar na cor correspondente ao código apresentado.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
