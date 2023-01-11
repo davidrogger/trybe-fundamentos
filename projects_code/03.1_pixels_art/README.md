@@ -1,6 +1,6 @@
 # Pixels Art
 
-Pela primeira vez, criei uma página dinâmica, manipulando o DOM, onde era possível preenchendo com cores quadrados, foi muito mas muito graficante, realizar esse projeto, mesmo que simples, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador, foi incrivel!
+Pela primeira vez, criei uma página dinâmica, manipulando o DOM usando Javascript, onde era possível preenchendo com cores quadrados, foi muito mais muito grafitante, realizar esse projeto, mesmo que simples aos olhos, para quem inicialmente nem sabia o que era javascript, conseguir desenhar no navegador clicando e alterando as cores, aumentado a quantidade do painel para desenhar, foi incrível!
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
