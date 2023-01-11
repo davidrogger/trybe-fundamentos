@@ -1,6 +1,6 @@
 # Zoo Functions
 
-Foi criada funções necessárias para funcionamento de um sistema de um zoologico, na época não tinha noção, mas é como se coletassemos um json de uma API, onde tinhamos informações de um zoológico, como animais, localizações e funcionários, precisavamos buscar espécies de animais por id, identificar a idade de espécies, buscar funcionário pelo nome, contagem de animais, preço da entrada, mapa geográfico dos animais entre muitas outras funcionalidades, foi considerado na época o projeto mais difícil do módulo.
+Foi criada funções necessárias para funcionamento de um sistema de um zoológico, na época não tinha noção, mas é como se coletássemos um json de uma API, onde tínhamos informações de um zoológico, como animais, localizações e funcionários, precisávamos buscar espécies de animais por id, identificar a idade de espécies, buscar funcionário pelo nome, contagem de animais, preço da entrada, mapa geográfico dos animais entre muitas outras funcionalidades, foi considerado na época o projeto mais difícil do módulo, onde trabalhei e reforcei mais ainda a lógica de programação.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
