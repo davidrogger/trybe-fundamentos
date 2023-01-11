@@ -1,6 +1,6 @@
 # Mistery Letter
 
-Projeto conta a quantidade de palavras escritas no input, alterando de forma aleatória sua configuração de fonte de fundo e formatação de letra com base em uma classe com os estilos de fonte.
+Ultimo projeto extra da seção, onde é escrito um texto em uma caixa de texto, e ao clicar em gerar carta, é contado a quantidade de palavras presentes no texto, e apresentado logo abaixo da caixa do texto com uma formatação aleatória de fonte e fundo.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
