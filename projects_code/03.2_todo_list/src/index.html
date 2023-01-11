@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">  
+  <title>To do List Project</title>  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Minha Lista de Tarefas</h1>
+    <p id='funcionamento'>
+      <em>Clique duas vezes em um item para marcá-lo como completo</em>
+    </p>
+  </header>
+  <main>
+    <section id="user-interact">
+      <input type="text" id='texto-tarefa' placeholder="Digite aqui a Tarefa">
+      <button id='criar-tarefa' class='tooltip'>✏️ <span class='tooltiptext'>Adiciona a Tarefa a lista</span> </button>
+      <section id='task-buttons'>
+        <button id='mover-cima' class='tooltip'>▲<span class='tooltiptext'>Move para cima o item selecionado</span></button>
+        <button id='mover-baixo' class='tooltip'>▼<span class='tooltiptext'>Move para baixo o item selecionado</span></button>
+        <button id='remover-selecionado' class='tooltip'>❌<span class='tooltiptext'>Apaga o item selecionado</span></button>      
+        <button id='apaga-tudo' class='tooltip'>🧹<span class='tooltiptext'>Remove todos itens da lista</span></button>
+        <button id='remover-finalizados' class='tooltip'>✅<span class='tooltiptext'>Remove itens concluidos</span></button>
+        <button id='salvar-tarefas' class='tooltip'>📌<span class='tooltiptext'>Salva a lista</span></button>
+      </section>
+    </section>    
+      <section id="task-bg">      
+        <ol id='lista-tarefas'></ol>          
+      </section>  
+  </main>
+  <footer>
+    Conteúdo compilado por:
+    <a id='linkedin' href="https://www.linkedin.com/in/davidrogger/"><img src="./img/linkedin-logo02.png" alt=""></a>Davíd Roggér, 12/2021
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
