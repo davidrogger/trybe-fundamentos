@@ -1,6 +1,6 @@
 # Meme Generetor
 
-Nesse projeto, é possivel adicionar uma imagem ou usar uma imagem padrão, e adicionar alguma frase para gerar um meme.
+Mais um projeto extra, é possível adicionar uma imagem ou usar uma imagem padrão, e adicionar alguma frase para gerar um meme dentro da imagem selecionada.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
