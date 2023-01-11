@@ -1,6 +1,6 @@
 # Unit test
 
-Primeiro contato criando testes automatizados, usando jest, foi bem confuso no começo, mesmo ao final da seção muita coisa que aprendi ao longo do curso só foi fazer sentido mais tarde! Nesse projeto foi mesclado tanto desenvolver alguma função, como criar um teste para um ja existente, e também criar ambos.
+Primeiro contato criando testes automatizados, usando jest, foi bem confuso no começo, mesmo ao final da seção muita coisa que aprendi ao longo do curso só foi fazer sentido mais tarde! Nesse projeto foi mesclado o desenvolvimento de métodos com foco em praticar a lógica de programação, como criar um teste para ganho de familiaridade com a ideia de testes, e tive alguns casos em que era necessário desenvolver os dois.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
