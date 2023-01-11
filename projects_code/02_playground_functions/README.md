@@ -1,6 +1,8 @@
 # Playground Functions
 
-Onde iniciei com Javascript, apesar de que estudei no youtube na época, não seria meu primeiro conteto direto, mas foi basicamente minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
+Onde iniciei com Javascript, apesar de que estudei no YouTube na época, não seria meu primeiro contato direto, mas sim minha primeira vez fazendo um "projeto" onde eram realizados testes automatizados para verificar se a função estava fazendo o que era esperado.
+Mantive eles, conforme desenvolvi na época, apenas para eu ter como recordação como quando você tem menos experiência, coisas que para alguns mais experientes é simples, eram mais complicadas, por estarmos ainda limitados uma caixa de ferramentas onde tinha somente um martelo, e todo problema era um prego haha.
+Nessa época foquei mais em trabalhar minha lógica, tentei abordar da melhor forma que eu podia a criação de cada solução, não que eu tenha virado um mestre haha, mas a refatoração seria total focado em clean code, transformando em algo mais simples.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
