@@ -1,6 +1,6 @@
 # Trybewarts
 
-Foi meu primeiro projeto dividindo codigo com alguém, minha dupla foi a [@alline](https://www.linkedin.com/in/alline-franciely-silva/), onde trocamos ideias e soluções. Desenvolvemos juntos as soluções de cada requisito!
+Foi meu primeiro projeto dividindo codigo com alguém, minha dupla foi a [@alline](https://www.linkedin.com/in/alline-franciely-silva/), onde trocamos ideias e soluções. Desenvolvemos juntos as soluções de cada requisito, de forma bem produtiva entendo melhor com a mão na massa o funcionamento do github e o versionamento, em grupo.
 
 ### Resultado por requisito
 *Nome* | *Avaliação*
