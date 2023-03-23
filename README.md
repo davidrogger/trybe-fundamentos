@@ -71,10 +71,10 @@ Ao clicar na imagem de cada projeto é possível ver os arquivos criados e um pe
       </a>
     </td>
     <td width="45%" align="center">
-      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/initial-readme-update/projects_code/04_trybewarts">
         <h2>
           Trybewarts
         </h2>
+      <a href="https://github.com/davidrogger/trybe-fundamentos/tree/main/projects_code/04_trybewarts">
         <img src="./img/trybewarts_320x249.png">
       </a>
     </td>
